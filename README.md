@@ -75,3 +75,7 @@ Prototype implementation TBD.
 ## Author
 
 [Hassan King]
+
+## Open Questions
+
+- [Explore system-level enforcement for Hard Stop](https://github.com/dracothagoat/mic-time/issues/1)
