@@ -41,15 +41,18 @@ When the window ends, microphone access stops automatically.
 2. Mic Active indicator with countdown  
 3. Mic Ended prompt with explicit extension options  
 
+Below are conceptual UI mockups illustrating how time-based microphone access could appear in a system-level interface.
+
+
 ## UI Mockups
 
 ### Mic Time Settings
 ![Mic Time Settings](docs/images/mic-time-settings.png)
 
-### Microphone Active
+### Microphone Active (Countdown Visible)
 ![Microphone Active](docs/images/mic-active.png)
 
-### Microphone Access Ended
+### Microphone Access Ended (Hard Stop)
 ![Mic Ended](docs/images/mic-ended.png)
 
 ## Why This Matters
@@ -58,6 +61,11 @@ This concept does not assume malicious behavior by apps.
 It exists to remove ambiguity and reduce cognitive load.
 
 Users should not have to wonder whether something they said will appear later.
+
+## What This Is Not
+
+This concept does not assume malicious behavior by apps.
+It exists to remove ambiguity, reduce cognitive load, and make system behavior explicit to users.
 
 ## Status
 
