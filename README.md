@@ -41,6 +41,17 @@ When the window ends, microphone access stops automatically.
 2. Mic Active indicator with countdown  
 3. Mic Ended prompt with explicit extension options  
 
+## UI Mockups
+
+### Mic Time Settings
+![Mic Time Settings](docs/images/mic-time-settings.png)
+
+### Microphone Active
+![Microphone Active](docs/images/mic-active.png)
+
+### Microphone Access Ended
+![Mic Ended](docs/images/mic-ended.png)
+
 ## Why This Matters
 
 This concept does not assume malicious behavior by apps.
